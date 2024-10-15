@@ -71,6 +71,25 @@ border:none
 
 
 
+## Best button style 
+```css
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease; /* Add smooth transition */
+}
+
+button:hover {
+  transform: scale(1.05); /* Scale the button slightly */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* Add shadow */
+  background-color: #2980b9; /* Change background color */
+}
+
+
+```
 
 
 
