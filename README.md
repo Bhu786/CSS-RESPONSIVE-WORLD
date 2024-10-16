@@ -93,9 +93,9 @@ button:hover {
 ----
 ----
 ----
-##KNOWLEDGE OF CSS UNITS 
+## KNOWLEDGE OF CSS UNITS 
 
-###There are two types of "relative units". 
+### There are two types of "relative units". 
 1.Relative to font-size
 2.Relative to the viewport 
 (Even though it sounds complicated, 
@@ -106,7 +106,7 @@ CSS Units - Relative units
 • Relative to the viewport (we'll get to this later) vw, vh, vmin, vmax
 
 
-###PERCENTAGE UNIT (P=parent se, p=percentage)
+### PERCENTAGE UNIT (P=parent se, p=percentage)
 
 •Percentages are mainly used for widths, and are pretty easy to understand.
 •Relative to their parent (except on height, where things get weird). 3
