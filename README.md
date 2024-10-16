@@ -108,8 +108,8 @@ CSS Units - Relative units
 
 ### PERCENTAGE UNIT (P=parent se, p=percentage)
 
-•Percentages are mainly used for widths, and are pretty easy to understand.
-•Relative to their parent (except on height, where things get weird). 3
+1. Percentages are mainly used for widths, and are pretty easy to understand.
+2. Relative to their parent (except on height, where things get weird). 3
 
 
 
